@@ -16,4 +16,6 @@
 - npm install
 - npm start
 
+### Быстрый обзор
+
 https://github.com/alexeyBogatyrevFrontend/CRUD-kami/assets/95482973/be5ce6bd-b778-4373-b240-83ebfb3f61dc
